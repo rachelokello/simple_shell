@@ -1,4 +1,4 @@
-0x16. C - Simple Shell
+0x16. C - Simple Shell project
 Write a beautiful code that passes the Betty check
 Write a UNIX command line interpreter.
 Handle command lines with arguments
